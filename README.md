@@ -30,7 +30,7 @@ npm start
 If you would like to contribute to E-Commerce please feel free to do so.
 
 Current Contributors:<br/>
-<a href="https://github.com/pandolfom/readme-generator/graphs/contributors">
+<a href="https://github.com/PandolfoM/e-commerce/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=pandolfom/readme-generator" />
 </a>
 
